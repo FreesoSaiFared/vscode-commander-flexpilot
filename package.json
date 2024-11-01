@@ -88,7 +88,7 @@
     ]
   },
   "extensionDependencies": [
-    "GitHub.copilot-chat"
+     "flexpilot-ai.flexpilot"
   ],
   "scripts": {
     "vscode:prepublish": "npm run package",
